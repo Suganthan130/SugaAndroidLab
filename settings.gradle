@@ -1,0 +1,3 @@
+include ':SugaAndroidLab'
+include ':app'
+rootProject.name = "SugaAndroidLab"
